@@ -29,7 +29,7 @@ To execute the simulator, run:
 ### Cleaning Up
 To clean up the build files, run:
 ```sh
-clean
+make clean
 ```
 This will remove the object files, the executable and result files in input/.
 
